@@ -1,12 +1,26 @@
-# React + Vite
+# Agarwal Architects Website 🌐
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully responsive and modern website built for a real-world architecture firm to showcase their projects, services, and contact information.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🌟 Fully responsive design compatible with all screen sizes
+- ⚛️ Built using **React.js**, **Tailwind CSS**, and **Framer Motion**
+- ✨ Smooth animations and clean, component-based UI/UX
+- 🌍 Live hosted with custom domain and integrated with **Google Search Console**
+- 🔍 SEO and accessibility-friendly setup
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend:** React.js
+- **Styling:** Tailwind CSS
+- **Animations:** Framer Motion
+- **Deployment:**  Vercel
+- **Domain & SEO:** Custom domain, Google Search Console
+
+## 📦 Setup Instructions
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/agarwal-architects-website.git
+   cd agarwal-architects-website
