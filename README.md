@@ -1,6 +1,7 @@
 # Agarwal Architects Website 🌐
 
 A fully responsive and modern website built for a real-world architecture firm to showcase their projects, services, and contact information.
+![image](https://github.com/user-attachments/assets/3d01739a-6c82-4c74-bbef-810fcfc18b1c)
 
 ## 🚀 Features
 
